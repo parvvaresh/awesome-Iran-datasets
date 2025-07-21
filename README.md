@@ -14,15 +14,15 @@ A collective list of Iranian/Persian Datasets.
 	- [Social media](#social-media)
 	- [Governments](#governments)
 	- [News](#news)
-	- [Sports](#sport)
-	- [Articles](#articles)
+	- [Sports](#sports)
 	- [Finance](#finance)
 	- [Politics](#politics)
-	- [Environmental](#environmental)
-	- [Photos](#photos)
+	- [Environment](#environment)
+	- [Images](#images)
 	- [Movies](#movies)
-	- [Musics](#musics)
+	- [Music](#music)
    	- [Culture](#culture)
+	- [Properties](#properties)
 - [Contributing](#contributing)
 
 ---
@@ -76,14 +76,12 @@ A collective list of Iranian/Persian Datasets.
 * [توییت‌های اعتراضات ۱۴۰۱](https://www.kaggle.com/datasets/konradb/iran-protests-2022-tweets)
 * [دیتاست شامل 67,743 کامنت برچسب‌گذاری‌شده از سایت‌های ایرانی (نماوا، فیلیمو، آپارات) و شبکه‌های اجتماعی (یوتیوب، توییتر، اینستاگرام)](https://github.com/engmahsa/Senti-Persian-Dataset)
 
-
-
-## Governments
+## Governments & Politics
 * [پایگاه های انتقال خون ایران](https://www.kaggle.com/datasets/amirshnll/ibtodatasets) 
 * [کدهای شهرستان‌ها](https://github.com/benyaminsalimi/Iranian-national-code-generator)
 * [قانون اساسی جمهوری اسلامی ایران](https://github.com/mehdisadeghi/iranconstitution)
 * [علائم ترافیکی و راهنمایی‌رانندگی ایران](https://www.kaggle.com/datasets/saraparsaseresht/persian-traffic-sign-dataset-ptsd)
-
+* [آمار روزانه اعتراضات ۱۴۰۱](https://www.kaggle.com/datasets/justin2028/daily-statistics-of-the-2022-iran-protests)
 
 ## News
 * [اخبار فارسی](https://www.kaggle.com/datasets/amirshnll/persian-news-dataset)
@@ -110,16 +108,12 @@ A collective list of Iranian/Persian Datasets.
 * [بیش از ۲ میلیون محصول و نظرات از سایت باسلام(۱۴۰۳)](https://www.kaggle.com/datasets/radeai/basalam-comments-and-products)
 * [بیش از ۱ میلیون محصول دیجیکالا(۱۴۰۳)](https://www.kaggle.com/datasets/radeai/digikala-comments-and-products)
 
-
-## Politics
-* [آمار روزانه اعتراضات ۱۴۰۱](https://www.kaggle.com/datasets/justin2028/daily-statistics-of-the-2022-iran-protests)
-
-## Environmental
+## Environment
 * [زلزله در ایران](https://www.kaggle.com/datasets/mehrdat/irans-earthquakes)
 * [میزان بارندگی شهرهای ایران](https://www.kaggle.com/datasets/mohammadrahdanmofrad/average-monthly-precipitation-of-iranian-cities)
 * [تحلیل و داده‌های کشاورزی در ایران](https://github.com/BahramJannesar/IranAgricultureDataAnalysis)
 
-## Photos
+## Images
 * [علائم تجاری شرکت‌ها](https://github.com/kargaranamir/Trademarks-from-Iranian-Companies)
 * [آگهی‌های دیوار](https://github.com/ebadico/divar-dataset/)
 * [آگهی‌های ماشین در سایت دیوار](https://www.kaggle.com/datasets/sinatavakolibanizi/dataset-of-car-category-ads-on-the-divar-site)
@@ -138,6 +132,9 @@ A collective list of Iranian/Persian Datasets.
 
 ## Culture
 * [آمار ازدواج و طلاق](https://www.kaggle.com/datasets/mahdinavaei/marriage-and-divorce-in-iran)
+  
+## Properties
+* [دیتاست یک میلیون آگهی املاک «دیوار»](https://huggingface.co/datasets/divaroffical/real_estate_ads)
 
 # Contributing
 
